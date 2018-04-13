@@ -9,7 +9,7 @@ h1  {font-family: Helvetica;
     color: white;
     }
 
-h1, .btn-nav {background-image: url("./resources/images/the-flatiron-building.png");
+h1, .btn-nav {background-image: url("/resources/images/the-flatiron-building.png");
     }
 
 h2  {font-family: Helvetica;
@@ -31,3 +31,5 @@ h4  {font-family: Helvetica;
     font-weight: bold;
     color: white;
     }
+
+body {text-align: center; !important}
